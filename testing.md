@@ -1,0 +1,3 @@
+### Testes (@testing-library)
+Hoje em nossa plataforma temos pouquíssimos testes e sabemos bem de sua importância. Temos discutido muito essa questão de testes dentro da equipe. Como vamos iniciar um processo bem interessante que está envolvendo redesign de várias partes da principais da plataforma, exemplo a Home e Programas, podemos começar a incluir testes ainda não de forma obrigatória, mas para cobrir nem que seja 30% da aplicação ou quem sabe 80% das funções de um novo componente.
+Sim, testes são complicados de fazer, tomam tempo as vezes, mas é só porque talvez ainda não estamos desenvolvendo pensando em testes.
