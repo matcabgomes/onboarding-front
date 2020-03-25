@@ -7,7 +7,7 @@ Resumo dos mantras de tecnologia do time de engenharia da Queima:
 
 2 - The plan is mutable, but there should always be a plan. (É importante ser organizado e ter um plano para tudo, mas não podemos perder dinamismo e agilidade, as coisas mudam muito rápido)
 
-3 - Think once before Googling, think twice before asking. (Estimule seu pensamento lógico e crítico! Tente resolver antes, pesquise antes, se não conseguir resolve aí pergunte)
+3 - Think once before Googling, think twice before asking. (Estimule seu pensamento lógico e crítico! Tente resolver antes, pesquise antes, se não conseguir resolver aí pergunte)
 
 4 - There will be bugs, but there will be less bugs if you write tests. (Qualidade de software é importante!)
 
